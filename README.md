@@ -30,6 +30,7 @@
 - from app import db
 - db.create_all()
 - use SQLite Viewer to view DB.
+- 
 
 
 - Install Jinja2 Template
