@@ -21,8 +21,6 @@
 - create containers, container-fluid for entire length.\
 - create containers and paste a table in it.
 - give margin in y axis use my-3
-
-
 - import flask SQLAlchemy, it is an ORM mapper using which one can make changes in python database.
 - to create todo.db use: sqlalchemy_database_uri  :      https://flask-sqlalchemy.palletsprojects.com/en/2.x/config/
 - create todo class and decsribe the columns of the database.
@@ -30,7 +28,6 @@
 - from app import db
 - db.create_all()
 - use SQLite Viewer to view DB.
-- 
 
 
 - Install Jinja2 Template
